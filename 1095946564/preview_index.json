@@ -1,7 +1,7 @@
 {
   "qq_number": "3365545102",
   "group_number": "1095946564",
-  "updated_at": "2026-11-10T11:34:36+00:00",
+  "updated_at": "2026-11-10T11:35:35+00:00",
   "skins": [
     {
       "name": "Tu-345",
@@ -37,6 +37,13 @@
       "thumb": "Tu-328.bds_py_26_light_thumb.png",
       "full": "Tu-328.bds_py_26_light_thumb.png",
       "file_id": "6b3b5acfede72b5633795f9ff03cfc17"
+    },
+    {
+      "name": "Tu-329",
+      "file": "Tu-329.bds",
+      "thumb": "Tu-329.bds_py_26_light_thumb.png",
+      "full": "Tu-329.bds_py_26_light_thumb.png",
+      "file_id": "d9a5643e7aa57af26a98d8a1bc2dba9e"
     }
   ]
 }
