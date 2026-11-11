@@ -1,7 +1,7 @@
 {
   "qq_number": "3365545102",
   "group_number": "1126364312",
-  "updated_at": "2026-11-11T16:48:12+00:00",
+  "updated_at": "2026-11-11T16:52:47+00:00",
   "skins": [
     {
       "name": "Tu-qq人年2",
@@ -103,17 +103,17 @@
     },
     {
       "name": "Tu-qq人年7",
-      "file": "Tu-qq人年7.bdi",
-      "thumb": "Tu-qq人年7.bdi_py_26_light_thumb.png",
-      "full": "Tu-qq人年7.bdi_py_26_light_thumb.png",
-      "file_id": "89361cfef5928ba89d2a4aeeb158c48b"
-    },
-    {
-      "name": "Tu-qq人年7",
       "file": "Tu-qq人年7.bds",
       "thumb": "Tu-qq人年7.bds_py_26_light_thumb.png",
       "full": "Tu-qq人年7.bds_py_26_light_thumb.png",
       "file_id": "2065ac953ca4f888c3d8017fa85b9ef8"
+    },
+    {
+      "name": "Tu-qq人年7",
+      "file": "Tu-qq人年7.bdi",
+      "thumb": "Tu-qq人年7.bdi_py_26_light_thumb.png",
+      "full": "Tu-qq人年7.bdi_py_26_light_thumb.png",
+      "file_id": "89361cfef5928ba89d2a4aeeb158c48b"
     }
   ]
 }
