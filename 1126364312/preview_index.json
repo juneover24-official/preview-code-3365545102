@@ -1,7 +1,7 @@
 {
   "qq_number": "3365545102",
   "group_number": "1126364312",
-  "updated_at": "2026-11-23T06:58:55+00:00",
+  "updated_at": "2026-11-24T09:49:36+00:00",
   "skins": [
     {
       "name": "Tu-qq人年2",
@@ -317,6 +317,13 @@
       "thumb": "Tu-qq人年19.bdi_py_26_light_thumb.png",
       "full": "Tu-qq人年19.bdi_py_26_light_thumb.png",
       "file_id": "00401786ca54bb1e39b959ba5782024d"
+    },
+    {
+      "name": "Tu-qq人年19",
+      "file": "Tu-qq人年19.bds",
+      "thumb": "Tu-qq人年19.bds_py_26_light_thumb.png",
+      "full": "Tu-qq人年19.bds_py_26_light_thumb.png",
+      "file_id": "ec0d2956ded85f5ec3eed96344ebb5cb"
     }
   ]
 }
